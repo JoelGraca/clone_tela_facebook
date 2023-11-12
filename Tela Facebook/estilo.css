@@ -1,0 +1,59 @@
+body{
+    background-color: rgba(223, 217, 217, 0.798);
+}
+section{
+    background-color: white;
+    height: 450px;
+    width: 500px;
+    text-align: center;
+    margin: auto;
+    border-radius: 5px;
+}
+h1{
+    margin-top: 30px;
+}
+.conta{
+   text-decoration: none; 
+}
+.agora{
+    margin-top: 10px;
+    text-decoration: none;
+}
+.face{
+    margin-top: 5px;
+}
+
+#txtn{
+    width: 250px;
+    height: 24px;
+}
+#txtem{
+    margin-top: 10px;
+    width: 250px;
+    height: 24px;
+    
+}
+#botao1{
+    margin-top: 10px;
+    width: 257px;
+    height: 50px;
+    text-align: center;
+    background-color: rgba(63, 63, 204, 0.89);
+    color: white;
+    border: none;
+    border-radius: 2px;
+}
+#botao1:hover{
+    background-color: rgb(0, 116, 248);
+}
+#botao2{
+    width: 150px;
+    height: 50px;
+    background-color: rgb(3, 201, 3);
+    color: white;
+    border: none;
+    border-radius: 2px;
+}
+#botao2:hover{
+    background-color: rgb(5, 250, 5);
+}
